@@ -14,7 +14,7 @@
 		018860E12A348849005CD267 /* cfmTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 018860E02A348849005CD267 /* cfmTests.swift */; };
 		018860EB2A348849005CD267 /* cfmUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 018860EA2A348849005CD267 /* cfmUITests.swift */; };
 		018860ED2A348849005CD267 /* cfmUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 018860EC2A348849005CD267 /* cfmUITestsLaunchTests.swift */; };
-		01BEDF682A35C81900C76126 /* CookingGoals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01BEDF672A35C81800C76126 /* CookingGoals.swift */; };
+		01BEDF6A2A35DE2200C76126 /* CookingGoals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01BEDF692A35DE2200C76126 /* CookingGoals.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,7 +45,7 @@
 		018860E62A348849005CD267 /* cfmUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cfmUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		018860EA2A348849005CD267 /* cfmUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cfmUITests.swift; sourceTree = "<group>"; };
 		018860EC2A348849005CD267 /* cfmUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cfmUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		01BEDF672A35C81800C76126 /* CookingGoals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookingGoals.swift; sourceTree = "<group>"; };
+		01BEDF692A35DE2200C76126 /* CookingGoals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookingGoals.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,9 +98,9 @@
 			children = (
 				018860CF2A348847005CD267 /* cfmApp.swift */,
 				018860D12A348847005CD267 /* ContentView.swift */,
-				01BEDF672A35C81800C76126 /* CookingGoals.swift */,
 				018860D32A348849005CD267 /* Assets.xcassets */,
 				018860D52A348849005CD267 /* Preview Content */,
+				01BEDF692A35DE2200C76126 /* CookingGoals.swift */,
 			);
 			path = cfm;
 			sourceTree = "<group>";
@@ -261,7 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				018860D22A348847005CD267 /* ContentView.swift in Sources */,
-				01BEDF682A35C81900C76126 /* CookingGoals.swift in Sources */,
+				01BEDF6A2A35DE2200C76126 /* CookingGoals.swift in Sources */,
 				018860D02A348847005CD267 /* cfmApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
