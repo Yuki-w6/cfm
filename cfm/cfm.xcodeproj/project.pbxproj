@@ -98,9 +98,9 @@
 			children = (
 				018860CF2A348847005CD267 /* cfmApp.swift */,
 				018860D12A348847005CD267 /* ContentView.swift */,
+				01BEDF692A35DE2200C76126 /* CookingGoals.swift */,
 				018860D32A348849005CD267 /* Assets.xcassets */,
 				018860D52A348849005CD267 /* Preview Content */,
-				01BEDF692A35DE2200C76126 /* CookingGoals.swift */,
 			);
 			path = cfm;
 			sourceTree = "<group>";

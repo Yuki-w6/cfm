@@ -1,6 +1,14 @@
 import SwiftUI
 
 @main
+struct cfmApp: App {
+    var body: some Scene {
+        WindowGroup {
+            HomeView()
+        }
+    }
+}
+
 struct HomeView: View {
     @EnvironmentObject var cookingGoals: CookingGoals
     
